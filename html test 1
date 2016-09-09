@@ -1,0 +1,30 @@
+<html>
+<head>
+</head>
+<body bgcolor="gold">
+<h1 align="center"><b>Hello, <i>World</i>!</b></h1>
+<table border="1" width="60%" height="80%" align="center" bgcolor="red">
+<tr>
+<td align="center"><font size="20">Стефан</font>
+</td>
+<td align="center"><font size="20">Петя</font>
+</td>
+</tr>
+<tr>
+<td align="center"><font size="20"><b>The best numbers</b>
+<ol>
+<li>15
+<li>3
+</ol></font>
+</td>
+<td align="center"><font size="20"><b>Любимые игры</b>
+<ul>
+<li>Minecraft
+<li>Ferma
+</ul></font>
+</td>
+</tr>
+</table>
+<h2 align="center"><font size="20">I love <a href="yandex.ru">yandex</a></font></h2>
+</body>
+</html>
