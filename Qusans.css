@@ -1,0 +1,14 @@
+﻿body {
+    background-color:lightblue;
+}
+div {
+    text-align: center;
+}
+div.answer { 
+    margin-left:400px;
+    
+}
+div.vopros {
+    margin-top:10px;
+}
+    
